@@ -1,0 +1,2 @@
+# Fuoco
+Metacity Theme
